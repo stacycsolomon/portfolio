@@ -10,7 +10,7 @@ module.exports = {
 		siteTitle: `Cara`,
 		siteTitleAlt: `Cara - Gatsby Starter Portfolio`,
 		siteHeadline: `Cara - Gatsby Theme from @lekoarts`,
-		siteUrl: `https://stacycsolomon.github.io/portfolio`,
+		siteUrl: `http://stacycsolomon.github.io/portfolio`,
 		siteDescription: `Playful and Colorful One-Page portfolio featuring Parallax effects and animations`,
 		siteLanguage: `en`,
 		siteImage: `/banner.jpg`,
