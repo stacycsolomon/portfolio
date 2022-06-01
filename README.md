@@ -1,6 +1,6 @@
 # Welcome to My Portfolio
 
-This portfolio showcases projects done by Stacy Solomon. For this portfolio I utilized the Gatsby Starter Portfolio Template created by LekoArts. You can find information on how I utilized this template below. 
+You can visit [my portfolio](https://stacycsolomon.github.io/portfolio/) to view a showcase of my work. For this portfolio I utilized the Gatsby Starter Portfolio Template created by LekoArts. You can find information on how I utilized this template below. 
 
 ## Stay Connected
 
