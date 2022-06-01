@@ -1,4 +1,5 @@
 {
+  "homepage": "https://stacycsolomon.github.io/portfolio",
   "private": true,
   "name": "cara",
   "description": "Playful and Colorful One-Page portfolio featuring Parallax effects and animations",
@@ -13,7 +14,8 @@
     "build:cypress": "cross-env CYPRESS_SUPPORT=y yarn build",
     "start": "gatsby develop",
     "serve": "gatsby serve",
-    "clean": "gatsby clean"
+    "clean": "gatsby clean",
+    "predeploy": "npm run build", "deploy": "gh-pages -d build"
   },
   "dependencies": {
     "@lekoarts/gatsby-theme-cara": "^3.0.0",
@@ -25,6 +27,7 @@
     "react-dom": "^18.0.0"
   },
   "devDependencies": {
-    "cross-env": "^7.0.3"
+    "cross-env": "^7.0.3",
+    "gh-pages": "^4.0.0"
   }
 }
