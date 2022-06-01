@@ -1,3 +1,15 @@
+# Welcome to My Portfolio
+
+This portfolio showcases projects done by Stacy Solomon. For this portfolio I utilized the Gatsby Starter Portfolio Template created by LekoArts. You can find information on how I utilized this template below. 
+
+## Stay Connected
+
+Thank you for checking out my work! You can connect with me at stacycsolomon@gmail.com or find me on [LinkedIn](https://www.linkedin.com/in/stacycsolomon/)
+
+<br/>
+<br/>
+<br/>
+
 <p align="center">
   <a href="https://cara.lekoarts.de">
     <img alt="LekoArts" src="https://img.lekoarts.de/gatsby/gatsby-site-illustration.png" />
